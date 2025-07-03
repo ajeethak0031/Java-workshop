@@ -5,3 +5,6 @@ public class acamedic extends Building {
     private boolean isauditoriumavailable;
     
 }
+
+
+
