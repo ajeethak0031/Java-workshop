@@ -16,4 +16,5 @@ public class hostel extends  Building {
     public int getNoOfRooms(){
         return noofrooms;
     }
+    
 }
