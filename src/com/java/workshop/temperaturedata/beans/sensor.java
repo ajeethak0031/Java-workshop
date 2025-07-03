@@ -1,6 +1,6 @@
 package src.com.java.workshop.temperaturedata.beans;
 
-public class sensor {
+public class Sensor {
     private int  sensorid;
     private String sensorname;
     private double temperature;
