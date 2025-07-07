@@ -1,4 +1,4 @@
-package src.com.java.workshop.basic.array;
+package src.com.java.workshop.array;
 import java.util.Arrays;
 
 
@@ -22,3 +22,4 @@ public class twodimensionalarray {
 
         }
     }
+}

@@ -1,5 +1,3 @@
-package src.com.java.workshop.temperaturedata.beans;
-
 public class location {
     private String name;
     private double latitute;
@@ -65,9 +63,18 @@ public class location {
     public long getPostalCode(){
         return postalcode;
     }
+    @Override
+    public String toString(){
+        return"location{ name:"+name+
+        ",latiitude:"+latitute+
+        ",longitude:"+longitute+
+        ",description:"+description+
+        ",country:"+country+
+        ",city:"+city+
+        ",address:"+address+
+        ",postalcode:"+postalcode+"}";
+    }
 
 
-    
 
 }
-
