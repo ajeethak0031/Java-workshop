@@ -1,3 +1,4 @@
+package com.java.workshop;
 public class string{
     public static void main (String[]args){
         String firstname="ajee";

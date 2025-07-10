@@ -15,13 +15,14 @@ public class Listexample {
         names.add("Muttapuffs"); 
         names.add("Naikutty");  
         System.out.println("Nmaes List: " + names);
+        names.set(1,"kuttachi");
         for (String name: names)
         {
-            System.out.println("Names: " + name);
+            System.out.println("Name: " + name);
         }  
         for (int i =0;i< names.size(); i++)
         {
-            System.out.println("Nmae at index"+ i +":"+names.get(i));
+            System.out.println("Name at index"+ i +":"+names.get(i));
         }
 
     }

@@ -1,4 +1,4 @@
-package src.com.java.workshop.array;
+package com.java.workshop.array;
 import java.util.Arrays;
 
 

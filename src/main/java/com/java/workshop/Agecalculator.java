@@ -1,3 +1,4 @@
+package com.java.workshop;
 import java.util.Scanner;
 
 public class Agecalculator {

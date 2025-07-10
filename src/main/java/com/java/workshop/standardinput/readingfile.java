@@ -1,4 +1,4 @@
-package src.com.java.workshop.standardinput;
+package com.java.workshop.standardinput;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

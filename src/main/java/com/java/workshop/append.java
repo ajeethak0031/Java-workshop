@@ -1,3 +1,4 @@
+package com.java.workshop;
 public class append {
     public static void main(String[] args) {
         StringBuilder sentence = new StringBuilder();

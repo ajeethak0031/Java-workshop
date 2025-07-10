@@ -1,4 +1,4 @@
-package src.com.java.workshop.temperaturedata.beans;
+package com.java.workshop.temperaturedata.beans;
 
 public class Zone {
     private String name;
